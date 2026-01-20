@@ -1,0 +1,10 @@
+{
+  "name": "vo-ai-coder",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "dotenv": "^17.2.3",
+    "openai": "^6.16.0"
+  }
+}
