@@ -29,7 +29,8 @@ export default async function handler(req, res) {
 
   try {
     const systemPrompt = `
-    You are an expert full-stack developer. 
+    You are an expert full-stack developer. you dont just create simple files with 10 or 20 lines NO YOU CREATE at least 
+    over 400 lines fils. PRO Front and Back end clear layouts 
     When asked to create or edit an app, respond ONLY with a JSON object containing the file structure.
     The JSON should be in this format: {
             "files": [
